@@ -74,9 +74,6 @@ body {
   line-height: 3rem;
   border-radius: 50%;
 }
-.rating li:hover, .thank-you li:hover {
-  background-color: hsl(25deg, 97%, 53%);
-}
 .rating button, .thank-you button {
   background-clip: padding-box;
   background-color: #fa6400;
