@@ -66,6 +66,7 @@ body {
 }
 .rating li, .thank-you li {
   display: inline-flex;
+  background-color: hsl(25deg, 97%, 53%);
   color: hsl(216deg, 12%, 54%);
   padding-inline: 1.25rem;
   margin-bottom: 0.5rem;
@@ -117,10 +118,6 @@ body {
   color: hsl(25deg, 97%, 53%);
   box-shadow: rgba(0, 0, 0, 0.06) 0 2px 4px;
   transform: translateY(0);
-}
-
-.rating-num-active {
-  color: white;
 }
 
 .thank-you {
